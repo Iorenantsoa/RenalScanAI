@@ -1,0 +1,43 @@
+<RCC>
+  <qresource prefix="images">
+    <file>image/images (1).png</file>
+    <file>image/home medical.jpg</file>
+    <file>image/IA et la medecine.jpg</file>
+    <file>tomcat.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/ball_point_pen_30px.png</file>
+    <file>icons/aashutdown_24px.png</file>
+    <file>icons/more_info_24px.png</file>
+    <file>icons/graduation_cap_30px.png</file>
+    <file>icons/picture_30px.png</file>
+    <file>icons/portrait_mode_scanning_32px.png</file>
+    <file>icons/qr_code_40px.png</file>
+    <file>icons/save_30px.png</file>
+    <file>icons/save_50px.png</file>
+    <file>icons/test_results_32px.png</file>
+    <file>icons/kidney_32px.png</file>
+    <file>icons/report_card_100px.png</file>
+    <file>icons/picture_30px.png</file>
+    <file>icons/bot_32px.png</file>
+    <file>icons/save_30px.png</file>
+    <file>icons/copy_24px.png</file>
+    <file>icons/align_justify_24px.png</file>
+    <file>icons/artificial_intelligence_24px.png</file>
+    <file>icons/brain_24px.png</file>
+    <file>icons/delete_24px.png</file>
+    <file>icons/help_24px.png</file>
+    <file>icons/home_page_24px.png</file>
+    <file>icons/info_24px.png</file>
+    <file>icons/iris_scan_24px.png</file>
+    <file>icons/list_24px.png</file>
+    <file>icons/portrait_mode_scanning_24px.png</file>
+    <file>icons/qr_code_24px.png</file>
+    <file>icons/science_fiction_24px.png</file>
+    <file>icons/search_24px.png</file>
+    <file>icons/search_more_24px.png</file>
+    <file>icons/subtract_24px.png</file>
+    <file>icons/unchecked_checkbox_24px.png</file>
+    <file>icons/visualization_skill_24px.png</file>
+  </qresource>
+</RCC>

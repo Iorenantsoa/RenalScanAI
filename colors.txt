@@ -1,0 +1,18 @@
+dark: #16191d        0
+accent_1 : #1f232a   -3
+accent_2 : #2c313c   -4
+accent_3 : #343b47   -5
+text_1 : #fff        FOTSY
+text_2 : #838ea2     GRIS
+
+home 
+detect
+scan
+visualize
+report 
+qrcode
+
+
+
+info
+help

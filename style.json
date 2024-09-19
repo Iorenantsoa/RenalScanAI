@@ -1,0 +1,26 @@
+{
+	"QMainWindow":[
+		{
+			"tittle":"CT Kidney scanner",
+			"icon":":/images/tomcat.png",
+			"frameless": true,
+			"transluscentBg": false,
+            "sizeGrip": "size_grip",
+			"navigation":[
+				{
+					"minimize":"minimize_btn",
+					"close": "close_btn",
+					"restore":[
+						{	
+							"buttonName": "restore_btn",
+							"normalIcon": ":/icons/icons/unchecked_checkbox_24px.png",
+							"maximizedIcon": ":/icons/icons/copy_24px.png"
+						}
+					],
+					"moveWindow": "header_widget",
+					"tittleBar": "header_widget"
+				}
+			]
+		}
+	]
+}
